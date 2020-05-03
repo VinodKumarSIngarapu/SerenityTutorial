@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.studentapp.junit.studentsInfo.CreateStudentsDataDrivenTest" skipped="0" tests="10" time="6.36" timestamp="2020-05-122 05:56:14"><testcase classname="com.studentapp.junit.studentsInfo.CreateStudentsDataDrivenTest" name="Creating the multiple students info into students app"/></testsuite>
